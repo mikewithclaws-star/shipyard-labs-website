@@ -38,7 +38,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 // 1. Go to https://formspree.io and sign up (free)
 // 2. Create a new form → set email to mike@shipyardlabs.ai
 // 3. Copy the form ID and paste it below
-const FORMSPREE_ID = 'YOUR_FORM_ID';
+const FORMSPREE_ID = 'xwvrwjyy';
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 const contactForm = document.getElementById('contactForm');
